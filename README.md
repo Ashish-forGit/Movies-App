@@ -1,7 +1,5 @@
 # Project Report: Android Movie App
 
-https://github.com/user-attachments/assets/8977949d-d49e-4918-b13a-0e68040e1199
-
 
 ## Overview
 The Android Movie App is designed to provide users with a smooth and intuitive interface for exploring movies, managing profiles, and filtering content. The project employs best practices in modern Android development, incorporating features such as search functionality, category filtering, dynamic RecyclerViews, and a user profile interface.
